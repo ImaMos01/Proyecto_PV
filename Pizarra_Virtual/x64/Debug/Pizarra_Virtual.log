@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\PC1000\Desktop\Arq\proyecto_arq\Pizarra_Virtual\Main.cpp(87,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC1000\Desktop\Arq\proyecto_arq\Pizarra_Virtual\Main.cpp(88,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Pizarra_Virtual.vcxproj -> C:\Users\PC1000\Desktop\Arq\proyecto_arq\Pizarra_Virtual\x64\Debug\Pizarra_Virtual.exe
